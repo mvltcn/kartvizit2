@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+ul li {
+    list-style:none;
+    float:right;
+}
+ul li a {
+    display:block;
+    color:#aaa;
+    margin:0 10px;
+    font-size:20px;
+    transition:0.5s;
+    text-align:left;
+}
+ul li:hover a {
+    color:#e91e63;
+    transform:rotateY(360deg);
+}
+body {
+    background-color: #28223F;
+    font-family: Montserrat, sans-serif;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    min-height: 100vh;
+    margin: 0;
+  }
