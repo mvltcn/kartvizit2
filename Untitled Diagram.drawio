@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T14:48:54.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jVzDpKLGJUJh-6yadca-" version="16.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-31T06:32:37.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ivIyfv3KfunZVxL1uFui" version="16.1.0" type="github" pages="3">
   <diagram id="V-ut0zUFN06YQfodLiXX" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7VC-fFSnpgTHtMQ2B09b" name="Page-3">
-    <mxGraphModel dx="878" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="x9jxSupzvkf6_RnlXh5t-0" />
         <mxCell id="x9jxSupzvkf6_RnlXh5t-1" parent="x9jxSupzvkf6_RnlXh5t-0" />
@@ -200,16 +200,10 @@
         <mxCell id="WzCIG5DW_56GWGH054C--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="x9jxSupzvkf6_RnlXh5t-1" source="WzCIG5DW_56GWGH054C--17" target="WzCIG5DW_56GWGH054C--21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WzCIG5DW_56GWGH054C--17" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;personel&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;br&gt;pozisyon_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;adi_soyadi&lt;br&gt;adres&lt;br&gt;telefon&lt;br&gt;email&lt;br&gt;resim&lt;br&gt;&lt;br&gt;linkedin&lt;br&gt;facebook&lt;br&gt;twitter&lt;br&gt;instagram&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=16;" vertex="1" parent="x9jxSupzvkf6_RnlXh5t-1">
+        <mxCell id="WzCIG5DW_56GWGH054C--17" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;personel&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;adi_soyadi&lt;br&gt;pozisyon&lt;br&gt;adres&lt;br&gt;telefon&lt;br&gt;email&lt;br&gt;resim&lt;br&gt;&lt;br&gt;linkedin&lt;br&gt;facebook&lt;br&gt;twitter&lt;br&gt;instagram&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=16;" vertex="1" parent="x9jxSupzvkf6_RnlXh5t-1">
           <mxGeometry x="530" y="480" width="160" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="WzCIG5DW_56GWGH054C--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="x9jxSupzvkf6_RnlXh5t-1" source="WzCIG5DW_56GWGH054C--19" target="WzCIG5DW_56GWGH054C--21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WzCIG5DW_56GWGH054C--19" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;pozisyon&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;pozisyon_adi&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=16;" vertex="1" parent="x9jxSupzvkf6_RnlXh5t-1">
-          <mxGeometry x="280" y="740" width="160" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="WzCIG5DW_56GWGH054C--21" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;kartvizit&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;firma_id&lt;br&gt;personel_id&lt;br&gt;pozisyon_id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=16;" vertex="1" parent="x9jxSupzvkf6_RnlXh5t-1">
+        <mxCell id="WzCIG5DW_56GWGH054C--21" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;kartvizit&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;firma_id&lt;br&gt;personel_id&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=16;" vertex="1" parent="x9jxSupzvkf6_RnlXh5t-1">
           <mxGeometry x="280" y="480" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
